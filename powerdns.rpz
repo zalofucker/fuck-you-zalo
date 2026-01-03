@@ -69,9 +69,6 @@
 *.sentry-int.zalo.cloud CNAME .
 *.sentry-mini.zalo.me CNAME .
 *.setting.api.zaloapp.com CNAME .
-*.sfont.zalopay.com.vn CNAME .
-*.simg.zalopay.com.vn CNAME .
-*.social.zalopay.vn CNAME .
 *.stc-fin.zdn.vn CNAME .
 *.stc-kilm.zdn.vn CNAME .
 *.stc-ministore.zdn.vn CNAME .
@@ -79,7 +76,6 @@
 *.stc-zmp.zadn.vn CNAME .
 *.stc-zoacmt-widget.zdn.vn CNAME .
 *.tracking.fiza.ai CNAME .
-*.tracking.zalopay.vn CNAME .
 *.universal-zinstant.api.zaloapp.com CNAME .
 *.wss-core.zalo.video CNAME .
 *.za.zdn.vn CNAME .

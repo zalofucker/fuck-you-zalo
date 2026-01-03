@@ -69,9 +69,6 @@
 *.sentry-int.zalo.cloud
 *.sentry-mini.zalo.me
 *.setting.api.zaloapp.com
-*.sfont.zalopay.com.vn
-*.simg.zalopay.com.vn
-*.social.zalopay.vn
 *.stc-fin.zdn.vn
 *.stc-kilm.zdn.vn
 *.stc-ministore.zdn.vn
@@ -79,7 +76,6 @@
 *.stc-zmp.zadn.vn
 *.stc-zoacmt-widget.zdn.vn
 *.tracking.fiza.ai
-*.tracking.zalopay.vn
 *.universal-zinstant.api.zaloapp.com
 *.wss-core.zalo.video
 *.za.zdn.vn

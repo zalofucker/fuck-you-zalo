@@ -94,9 +94,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zaloapp.com
 0.0.0.0 zedcdn.me
 0.0.0.0 zalo-oa-article-photo.zedcdn.me
-0.0.0.0 sfont.zalopay.com.vn
-0.0.0.0 simg.zalopay.com.vn
-0.0.0.0 social.zalopay.vn
 0.0.0.0 stc-fin.zdn.vn
 0.0.0.0 stc-kilm.zdn.vn
 0.0.0.0 stc-ministore.zdn.vn
@@ -104,7 +101,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stc-zmp.zadn.vn
 0.0.0.0 stc-zoacmt-widget.zdn.vn
 0.0.0.0 tracking.fiza.ai
-0.0.0.0 tracking.zalopay.vn
 0.0.0.0 universal-zinstant.api.zaloapp.com
 0.0.0.0 wss-core.zalo.video
 0.0.0.0 za.zdn.vn

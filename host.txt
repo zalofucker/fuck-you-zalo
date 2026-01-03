@@ -1,4 +1,4 @@
-# Title: fuck-you-zalo (pi-hole)
+# Title: fuck-you-zalo (host)
 # Homepage: https://github.com/zalofucker/fuck-you-zalo
 # ..............
 

@@ -14,7 +14,9 @@
 *.analytics.zapps.me
 *.android-appmon.ui-portal.com
 *.api-games.zagoo.vn
+*.zagoo.vn
 *.api-v2.zingplay.me
+*.zingplay.me
 *.api.baomoi.com
 *.api.gsm-api.net
 *.api.onesignal.com
@@ -89,6 +91,7 @@
 *.zalo.video
 *.zalo.vn
 *.zbox.vn
+*.zaloapp.com
 *.zchannel-mcloud-lpl-s16.zmdcdn.me
 *.zchannel-mcloud-lpl-s17.zmdcdn.me
 *.zchannel-photo-resize.zadn.vn

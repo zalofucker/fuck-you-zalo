@@ -21,7 +21,9 @@ al.zalo.video
 analytics.zapps.me
 android-appmon.ui-portal.com
 api-games.zagoo.vn
+zagoo.vn
 api-v2.zingplay.me
+zingplay.me
 api.baomoi.com
 api.gsm-api.net
 api.onesignal.com
@@ -86,6 +88,7 @@ wss-core.zalo.video
 za.zdn.vn
 zagoo.zadn.vn
 zagoo.zdn.vn
+zaloapp.com
 zalo-article-photo.zadn.vn
 zalo-effect.zadn.vn
 zalo-oa-article-photo.zedcdn.me

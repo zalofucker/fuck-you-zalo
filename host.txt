@@ -30,6 +30,7 @@ api.onesignal.com
 api.zalo.video
 app.baomoi.com
 app.fiza.ai
+fiza.ai
 avatar.talk.zdn.vn
 baomoi-static.bmcdn.me
 broadcast.api.zaloapp.com

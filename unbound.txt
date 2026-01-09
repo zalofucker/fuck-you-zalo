@@ -23,6 +23,7 @@ local-zone: "api.onesignal.com" always_null
 local-zone: "api.zalo.video" always_null
 local-zone: "app.baomoi.com" always_null
 local-zone: "app.fiza.ai" always_null
+local-zone: "fiza.ai" always_null
 local-zone: "avatar.talk.zdn.vn" always_null
 local-zone: "baomoi-static.bmcdn.me" always_null
 local-zone: "broadcast.api.zaloapp.com" always_null
@@ -91,6 +92,9 @@ local-zone: "zalo.me" always_null
 local-zone: "zalo.video" always_null
 local-zone: "zalo.vn" always_null
 local-zone: "zbox.vn" always_null
+local-zone: "zagoo.vn" always_null
+local-zone: "zingplay.me" always_null
+local-zone: "zaloapp.com" always_null
 local-zone: "zchannel-mcloud-lpl-s16.zmdcdn.me" always_null
 local-zone: "zchannel-mcloud-lpl-s17.zmdcdn.me" always_null
 local-zone: "zchannel-photo-resize.zadn.vn" always_null

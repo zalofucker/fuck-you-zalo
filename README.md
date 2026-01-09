@@ -14,6 +14,7 @@ Mục đích duy nhất là tôi ghét zalo vãi cả l.
 # **📖 Giới thiệu**
 
 Zalo là ứng dụng nhắn tin phổ biến nhất tại Việt Nam. Tuy nhiên, khác như nhiều ứng dụng "miễn phí" khác, nó rất tệ cực kì tệ, những tính năng cơ bản còn không xong, mà trả phí cũng không ổn tí nào zcloud thì chập chờn, mỗi lần đổi máy lại thì lại phải sao lưu lại (tôi biết signal với whatapp cũng cần phải sao lưu thủ công) nhưng mà em ơi em ơi ZALO gửi 8500/6020 (5000vnd/sms) không thì 1900633200. Dùng bản web thì không cho đồng bộ tin nhắn, tải app thì tốn hết cả chip nhớ xong làm trên quả electron thì tốn hết cả tài nguyên. Zbusiness thì toàn tín năng mà whatapp ăn sạch mới đây thêm quả [chính sách](https://vnexpress.net/zalo-nhan-tin-zalo-cap-nhat-dieu-khoan-moi-4999790.html) cũng như cứt nốt
+
 Sau tất cả Zalo chỉ ăn được cái Mini App 
 
 Bộ lọc này được tạo ra nhằm mục đích:

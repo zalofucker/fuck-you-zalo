@@ -35,7 +35,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.zapps.me
 0.0.0.0 android-appmon.ui-portal.com
 0.0.0.0 api-games.zagoo.vn
+0.0.0.0 zagoo.vn
 0.0.0.0 api-v2.zingplay.me
+0.0.0.0 zingplay.me
 0.0.0.0 api.baomoi.com
 0.0.0.0 api.gsm-api.net
 0.0.0.0 api.onesignal.com
@@ -120,6 +122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zjs.zdn.vn
 0.0.0.0 zdn.vn
 0.0.0.0 zadn.vn
+0.0.0.0 zaloapp.com
 0.0.0.0 zpsocial-f52-org.zadn.vn
 0.0.0.0 zpsocial2-f11-org.zadn.vn
 0.0.0.0 zpsocial2-f12-org.zadn.vn

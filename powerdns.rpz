@@ -21,6 +21,7 @@
 *.api.zalo.video CNAME .
 *.app.baomoi.com CNAME .
 *.app.fiza.ai CNAME .
+*.fiza.ai CNAME .
 *.avatar.talk.zdn.vn CNAME .
 *.baomoi-static.bmcdn.me CNAME .
 *.broadcast.api.zaloapp.com CNAME .
@@ -89,6 +90,9 @@
 *.zalo.video CNAME .
 *.zalo.vn CNAME .
 *.zbox.vn CNAME .
+*.zagoo.vn CNAME .
+*.zingplay.me CNAME .
+*.zaloapp.com CNAME .
 *.zchannel-mcloud-lpl-s16.zmdcdn.me CNAME .
 *.zchannel-mcloud-lpl-s17.zmdcdn.me CNAME .
 *.zchannel-photo-resize.zadn.vn CNAME .

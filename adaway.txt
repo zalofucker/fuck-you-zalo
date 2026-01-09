@@ -103,6 +103,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stc-zmp.zadn.vn
 0.0.0.0 stc-zoacmt-widget.zdn.vn
 0.0.0.0 tracking.fiza.ai
+0.0.0.0 fiza.ai
 0.0.0.0 universal-zinstant.api.zaloapp.com
 0.0.0.0 wss-core.zalo.video
 0.0.0.0 za.zdn.vn

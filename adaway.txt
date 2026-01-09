@@ -122,7 +122,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zjs.zdn.vn
 0.0.0.0 zdn.vn
 0.0.0.0 zadn.vn
-0.0.0.0 zaloapp.com
 0.0.0.0 zpsocial-f52-org.zadn.vn
 0.0.0.0 zpsocial2-f11-org.zadn.vn
 0.0.0.0 zpsocial2-f12-org.zadn.vn

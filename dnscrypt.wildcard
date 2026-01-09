@@ -20,7 +20,9 @@ al.zalo.video
 analytics.zapps.me
 android-appmon.ui-portal.com
 api-games.zagoo.vn
+zagoo.vn
 api-v2.zingplay.me
+zingplay.me
 api.baomoi.com
 api.gsm-api.net
 api.onesignal.com
@@ -40,6 +42,7 @@ featureflag.fiza.app
 graph.zalo.me
 gw-sse.be.com.vn
 gw.be.com.vn
+getpage.api.zaloapp.com
 h5-biz.zalo.me
 h5.zadn.vn
 h5.zalo.me
@@ -73,6 +76,9 @@ sec-zinstant.api.zaloapp.com
 sentry-int.zalo.cloud
 sentry-mini.zalo.me
 setting.api.zaloapp.com
+zaloapp.com
+zedcdn.me
+zalo-oa-article-photo.zedcdn.me
 stc-fin.zdn.vn
 stc-kilm.zdn.vn
 stc-ministore.zdn.vn
@@ -80,6 +86,7 @@ stc-zalosdk.zdn.vn
 stc-zmp.zadn.vn
 stc-zoacmt-widget.zdn.vn
 tracking.fiza.ai
+fiza.ai
 universal-zinstant.api.zaloapp.com
 wss-core.zalo.video
 za.zdn.vn
@@ -91,11 +98,14 @@ zalo-oa-article-photo.zedcdn.me
 zalo.video
 zchannel-mcloud-lpl-s16.zmdcdn.me
 zchannel-mcloud-lpl-s17.zmdcdn.me
+zmdcdn.me
 zchannel-photo-resize.zadn.vn
 zchannel-photo.zadn.vn
 zinst-stc.zadn.vn
 zinstant.zadn.vn
 zjs.zdn.vn
+zdn.vn
+zadn.vn
 zpsocial-f52-org.zadn.vn
 zpsocial2-f11-org.zadn.vn
 zpsocial2-f12-org.zadn.vn

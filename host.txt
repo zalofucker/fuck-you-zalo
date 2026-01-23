@@ -94,6 +94,7 @@ zalo-article-photo.zadn.vn
 zalo-effect.zadn.vn
 zalo-oa-article-photo.zedcdn.me
 zalo.video
+zstory-video-mcloud-lpl-s15-te-vnno-ne-2.zadn.vn
 zchannel-mcloud-lpl-s16.zmdcdn.me
 zchannel-mcloud-lpl-s17.zmdcdn.me
 zchannel-photo-resize.zadn.vn

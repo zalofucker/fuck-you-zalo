@@ -2,6 +2,39 @@
 # Homepage: https://github.com/zalofucker/fuck-you-zalo
 # ..............
 
+*.analytics.zapps.me
+*.api.tiktour.vn
+*.apilive.bscore.one
+*.cdn2.tiktour.vn
+*.centralized.zaloapp.com
+*.content.timviec.ai
+*.d1skwjllb8hcys.cloudfront.net
+*.life-services.api.zaloapp.com
+*.logo-zp.zdn.vn
+*.m-stickers.zaloapp.com
+*.openapi.zalo.cloud
+*.payment-mini.zalo.me
+*.pharma.lifes.zapps.me
+*.photo-resize-zmp3.zadn.vn
+*.prod-cdn.pharmacity.io
+*.proxy.buingoclam00.workers.dev
+*.s120-ava-talk.zadn.vn
+*.s240-ava-talk.zadn.vn
+*.social-photo-zinstant.zaloapp.com
+*.static.tiktour.vn
+*.stc-oauth.zdn.vn
+*.stc-zmp.zdn.vn
+*.timviec.ai
+*.topup.zaloplatforms.com
+*.trahoadon.fiza.app
+*.zalo-api.zadn.vn
+*.zapps.me
+*.zcalendar.zapps.me
+*.zmp-3rd-resources.zmncdn.me
+*.zpm.zalo.me
+*.zrbt-mcloud-bf-s9.zmdcdn.me
+*.zstory-video-mcloud-lpl-s15-te-vnno-ne-2.zadn.vn
+*.zstyle.zapps.me
 *.a-f62-zpg-r.zdn.vn
 *.a-f63-zpg-r.zdn.vn
 *.a-f64-zpg-r.zdn.vn

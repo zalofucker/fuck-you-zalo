@@ -3,6 +3,7 @@
 #**HIỆN TẠI CHUNG TÔI CẦN HỖ TRỢ XÂY DỰNG README TRONG VIỆC CÁCH SETUP BLOCKLIST!?!?!?!**
 
 Lấy lại quyền riêng tư và ủng hộ sử dụng các ứng dụng OTT khác tốt hơn nghìn lần zalo.
+
 Dự án này cung cấp danh sách các tên miền (domains) và địa chỉ IP được sử dụng bởi Zalo (VNG) cho mục đích quảng cáo, theo dõi người dùng (tracking), và thu thập dữ liệu nền (telemetry), nhắn tin, máy chủ
 
 # ⚖️ Tuyên bố từ chối trách nhiệm
@@ -259,7 +260,7 @@ Bước 2: Mở New Terminal.
 Bước 3: Sử dụng lệnh sau để nhập dữ liệu:
 
 
-```/import block-zalo.rsc```
+```/import mikrotik.rsc```
 
 
 **Nếu bạn không muốn tạo file, bạn cũng có thể copy toàn bộ nội dung script và dán (Paste) trực tiếp vào cửa sổ New Terminal là được.**

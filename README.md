@@ -250,6 +250,20 @@ Bước 3: Tìm ô Additional DNSMasq Options (Tùy chọn bổ sung).
 Bước 4: Dán danh sách trên vào ô đó.
 
 Bước 5: Nhấn Save và Apply Settings.
+## 10. RouterOS
+
+Bước 1: Lưu file [này](https://raw.githubusercontent.com/zalofucker/fuck-you-zalo/refs/heads/main/mikrotik.rsc)
+
+Bước 2: Mở New Terminal.
+
+Bước 3: Sử dụng lệnh sau để nhập dữ liệu:
+
+
+```/import block-zalo.rsc```
+
+
+**Nếu bạn không muốn tạo file, bạn cũng có thể copy toàn bộ nội dung script và dán (Paste) trực tiếp vào cửa sổ New Terminal là được.**
+
 # 🤝 Đóng góp 
 ## Hiện tại tôi rất cần các bạn tìm ra những phốt của zalo để tôi up lên README vậy nên nếu bạn nào có vui lòng tạo issue giúp tôi!?!?!?
 

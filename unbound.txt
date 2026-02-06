@@ -12,7 +12,6 @@ local-zone: "adtima-media.zascdn.me" always_null
 local-zone: "adtima-static.zascdn.me" always_null
 local-zone: "al.zalo.video" always_null
 local-zone: "analytics.zapps.me" always_null
-local-zone: "android-appmon.ui-portal.com" always_null
 local-zone: "api-games.zagoo.vn" always_null
 local-zone: "api-v2.zingplay.me" always_null
 local-zone: "api.baomoi.com" always_null

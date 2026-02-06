@@ -45,7 +45,6 @@
 *.adtima-static.zascdn.me
 *.al.zalo.video
 *.analytics.zapps.me
-*.android-appmon.ui-portal.com
 *.api-games.zagoo.vn
 *.zagoo.vn
 *.api-v2.zingplay.me

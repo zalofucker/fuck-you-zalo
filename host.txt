@@ -22,7 +22,6 @@ ads-platform.zalo.me
 adtima-media.zascdn.me
 adtima-static.zascdn.me
 al.zalo.video
-android-appmon.ui-portal.com
 api-games.zagoo.vn
 zagoo.vn
 api-v2.zingplay.me

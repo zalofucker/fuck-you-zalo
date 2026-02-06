@@ -33,7 +33,6 @@ add address=0.0.0.0 regexp=".*\\.scorecardresearch\\.com\$"
 add address=0.0.0.0 regexp=".*\\.onesignal\\.com\$"
 add address=0.0.0.0 regexp=".*\\.gsm-api\\.net\$"
 add address=0.0.0.0 regexp=".*\\.sentry-cdn\\.com\$"
-add address=0.0.0.0 regexp=".*\\.ui-portal\\.com\$"
 
 # Chỉ chặn đúng subdomain được liệt kê, không chặn domain gốc
 add address=0.0.0.0 name="apilive.bscore.one"

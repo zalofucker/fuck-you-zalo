@@ -26,7 +26,6 @@ ff02::3 ip6-allhosts
 0.0.0.1 adtima-static.zascdn.me
 0.0.0.1 al.zalo.video
 0.0.0.1 analytics.zapps.me
-0.0.0.1 android-appmon.ui-portal.com
 0.0.0.1 api-games.zagoo.vn
 0.0.0.1 api-v2.zingplay.me
 0.0.0.1 api.baomoi.com

@@ -139,3 +139,7 @@ local-zone: "zpsocial2-f9-org.zadn.vn" always_null
 local-zone: "zrbt-mcloud-bf-s9.zmdcdn.me" always_null
 local-zone: "zstory-video-mcloud-lpl-s15-te-vnno-ne-2.zadn.vn" always_null
 local-zone: "zstyle.zapps.me" always_null
+local-zone: "zalo-captcha.zdn.vn" always_null
+local-zone: "stc-zlogin.zdn.vn" always_null
+local-zone: "id.zalo.me" always_null
+local-zone: "ztevents.zaloapp.com" always_null

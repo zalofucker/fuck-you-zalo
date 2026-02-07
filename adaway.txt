@@ -2,7 +2,6 @@
 # Homepage: https://github.com/zalofucker/fuck-you-zalo
 # ..............
 
-
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -38,11 +37,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 social-photo-zinstant.zaloapp.com
 0.0.0.0 static.tiktour.vn
 0.0.0.0 stc-oauth.zdn.vn
+0.0.0.0 stc-zlogin.zdn.vn
 0.0.0.0 stc-zmp.zdn.vn
 0.0.0.0 timviec.ai
 0.0.0.0 topup.zaloplatforms.com
 0.0.0.0 trahoadon.fiza.app
 0.0.0.0 zalo-api.zadn.vn
+0.0.0.0 zalo-captcha.zdn.vn
 0.0.0.0 zapps.me
 0.0.0.0 zcalendar.zapps.me
 0.0.0.0 zmp-3rd-resources.zmncdn.me
@@ -99,6 +100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ia-stc-3.zdn.vn
 0.0.0.0 ia-stc-4.zdn.vn
 0.0.0.0 ia-stc-5.zdn.vn
+0.0.0.0 id.zalo.me
 0.0.0.0 kiki.zalo.ai
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 logo-mapps-photo-resize.zadn.vn

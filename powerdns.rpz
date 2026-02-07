@@ -276,3 +276,11 @@ zstory-video-mcloud-lpl-s15-te-vnno-ne-2.zadn.vn. CNAME .
 *.zstory-video-mcloud-lpl-s15-te-vnno-ne-2.zadn.vn. CNAME .
 zstyle.zapps.me. CNAME .
 *.zstyle.zapps.me. CNAME .
+zalo-captcha.zdn.vn. CNAME .
+*.zalo-captcha.zdn.vn. CNAME .
+stc-zlogin.zdn.vn. CNAME .
+*.stc-zlogin.zdn.vn. CNAME .
+id.zalo.me. CNAME .
+*.id.zalo.me. CNAME .
+ztevents.zaloapp.com. CNAME .
+*.ztevents.zaloapp.com. CNAME .

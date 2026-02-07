@@ -153,3 +153,7 @@ ff02::3 ip6-allhosts
 0.0.0.1 zrbt-mcloud-bf-s9.zmdcdn.me
 0.0.0.1 zstory-video-mcloud-lpl-s15-te-vnno-ne-2.zadn.vn
 0.0.0.1 zstyle.zapps.me
+0.0.0.1 zalo-captcha.zdn.vn
+0.0.0.1 stc-zlogin.zdn.vn
+0.0.0.1 id.zalo.me
+0.0.0.1 ztevents.zaloapp.com

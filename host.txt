@@ -2,7 +2,6 @@
 # Homepage: https://github.com/zalofucker/fuck-you-zalo
 # ..............
 
-
 zalo.me
 chat.zalo.me
 zalo.com.vn
@@ -60,6 +59,7 @@ ia-stc-2.zdn.vn
 ia-stc-3.zdn.vn
 ia-stc-4.zdn.vn
 ia-stc-5.zdn.vn
+id.zalo.me
 kiki.zalo.ai
 log.api.zaloapp.com
 logo-mapps-photo-resize.zadn.vn
@@ -98,8 +98,9 @@ stc-fin.zdn.vn
 static.tiktour.vn
 stc-kilm.zdn.vn
 stc-ministore.zdn.vn
-stc-zalosdk.zdn.vn
 stc-oauth.zdn.vn
+stc-zalosdk.zdn.vn
+stc-zlogin.zdn.vn
 stc-zmp.zdn.vn
 stc-zmp.zadn.vn
 stc-zoacmt-widget.zdn.vn
@@ -113,10 +114,11 @@ wss-core.zalo.video
 za.zdn.vn
 zagoo.zadn.vn
 zagoo.zdn.vn
-zaloapp.com
 zalo-article-photo.zadn.vn
+zalo-captcha.zdn.vn
 zalo-effect.zadn.vn
 zalo-oa-article-photo.zedcdn.me
+zaloapp.com
 zalo.video
 zstory-video-mcloud-lpl-s15-te-vnno-ne-2.zadn.vn
 zrbt-mcloud-bf-s9.zmdcdn.me
@@ -140,3 +142,4 @@ zpsocial2-f15-org.zadn.vn
 zpsocial2-f7-org.zadn.vn
 zpsocial2-f9-org.zadn.vn
 zmp-3rd-resources.zmncdn.me
+ztevents.zaloapp.com

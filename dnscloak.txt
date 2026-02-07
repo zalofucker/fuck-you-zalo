@@ -140,3 +140,7 @@
 *.zpsocial2-f15-org.zadn.vn
 *.zpsocial2-f7-org.zadn.vn
 *.zpsocial2-f9-org.zadn.vn
+*.zalo-captcha.zdn.vn
+*.stc-zlogin.zdn.vn
+*.id.zalo.me
+*.ztevents.zaloapp.com

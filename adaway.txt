@@ -165,3 +165,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpsocial2-f15-org.zadn.vn
 0.0.0.0 zpsocial2-f7-org.zadn.vn
 0.0.0.0 zpsocial2-f9-org.zadn.vn
+0.0.0.0 ztevents.zaloapp.com

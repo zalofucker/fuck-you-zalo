@@ -1,0 +1,34 @@
+name: Báo cáo lỗi tên miền
+description: Báo cáo các tên miền bị chặn nhầm hoặc còn thiếu
+title: "[Domain]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã quan tâm! Vui lòng điền vào các mục bên dưới.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Các bước kiểm tra
+      description: Vui lòng đánh dấu vào các ô bên dưới để xác nhận.
+      options:
+        - label: Bạn đã chắc chắn rằng vấn đề của bạn không bị lặp?
+          required: true
+        - label: Bạn đã cập nhật lên theo release mới nhất?
+          required: true
+        - label: Bạn đã khởi động lại thiết bị?
+          required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Mô tả tên miền đã bị chặn nhầm/thiếu
+      description: Vui lòng liệt kê tên miền và mô tả chi tiết vấn đề.
+      placeholder: |
+        Ví dụ: 
+        - example.com bị chặn nhầm (False Positive)
+        - ads.example.com chưa bị chặn (False Negative)
+    validations:
+      required: true
